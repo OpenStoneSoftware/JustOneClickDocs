@@ -3,6 +3,9 @@ title: Home
 layout: home
 ---
 
+{: .warning }
+NOTE: This documentation is not complete and is subject to change. Information in this documentation may also be incorrect as the software version may not be the same as the one the documentation was written upon. Some errors may also not be in the current public version of StatsApp.
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
